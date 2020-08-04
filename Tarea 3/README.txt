@@ -1,7 +1,7 @@
 @@@@@@@@@@@@@@@@@@@@@>Tarea 3 SO<@@@@@@@@@@@@@@@@@@@@@
-
+# Comentarios del autor para el git: Sin duda una buena tarea, se alcanzó a hacer en una noche, asi que de panini. 
 Nombre: Iñaki Oyarzun
-ROL: 201873620-1
+
 
 Se asume: 
 
