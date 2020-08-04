@@ -1,7 +1,7 @@
 @@@@@@@@@@@@@@@@@@@@@>Tarea 4 SO<@@@@@@@@@@@@@@@@@@@@@
-
+#Comentarios del autor para el git: Tarea estresante, en el sentido de coordinar threads, pero igualmente, sirvió para aprender. asi que de pana
 Nombre: Iñaki Oyarzun
-ROL: 201873620-1
+
 
 Se asume: 
 
