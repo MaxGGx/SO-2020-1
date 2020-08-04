@@ -1,7 +1,7 @@
 @@@@@@@@@@@@@@@@@@@@@>Tarea 2 SO<@@@@@@@@@@@@@@@@@@@@@
-
+# Opinion del autor en el git: Tarea con complicaciones, se hizo dos veces gracias a un "compañero" que puso una pregunta que jodió lo asumido. Proximamente se subira la otra opción para abordar el problema.
 Nombre: Iñaki Oyarzun
-ROL: 201873620-1
+
 
 Se asume: 
 
