@@ -7,5 +7,5 @@ Cada carpeta contiene:
 -El archivo final enviado a revisión.
 -El readme con una explicacion de la tarea en base a lo realizado y lo asumido de cada uno.
 
-###Creado con ❤ por
+### Creado con ❤ por:
 -Iñaki Oyarzun
