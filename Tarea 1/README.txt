@@ -1,7 +1,6 @@
 @@@@@@@@@@@@@@@@@@@@@>Tarea 1 SO<@@@@@@@@@@@@@@@@@@@@@
-
+## La tarea mas complicada del ramo, a opinión personal
 Nombre: Iñaki Oyarzun
-ROL: 201873620-1
 
 Se asume:
 
