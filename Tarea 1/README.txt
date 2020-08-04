@@ -1,5 +1,5 @@
 @@@@@@@@@@@@@@@@@@@@@>Tarea 1 SO<@@@@@@@@@@@@@@@@@@@@@
-## La tarea mas complicada del ramo, a opinión personal
+#Comentaios del autor en el git: La tarea más complicada del ramo, a opinión personal
 Nombre: Iñaki Oyarzun
 
 Se asume:
